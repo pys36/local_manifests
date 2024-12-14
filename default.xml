@@ -10,7 +10,7 @@
  <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="ghubb" revision="lineage-21" clone-depth="1" />
   
 <!-- frameworks_base -->
- <remove-project name="android_frameworks_base" />
+ <remove-project name="frameworks_base" />
  <project path="frameworks/base" name="ProjectEverest/frameworks_base" remote="ghubb" revision="14" clone-depth="1" />
 
 </manifest>
